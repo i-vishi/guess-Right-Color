@@ -40,7 +40,7 @@ function setSquares(){
 				changeColor(clickedColor);
 				h1.style.backgroundColor = clickedColor;
 			} else {
-				this.style.backgroundColor = "steelblue";
+				this.style.backgroundColor = "#232323";
 				messageDisplay.textContent = "Try Again!!!"
 			}
 		});
