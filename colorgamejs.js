@@ -46,6 +46,7 @@ function setSquares(){
 		});
 	}
 }
+
 function reset(){
 	//generate random colors
 	colors = generateRandColors(numSq);
